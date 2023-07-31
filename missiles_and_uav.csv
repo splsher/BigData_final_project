@@ -1,0 +1,26 @@
+model,category,type,national_origin,launch_platform,name,name_NATO,guidance_system,manufacturer
+Unknown Missile,cruise missile,,,,,,,
+X-59,cruise missile,TV-guided,russia,"Su-30MK, Su-24M, MiG-27, Su-17M3/22M4, HAL Tejas, Su-30 MKI, Su-25, Su-30",Kh-59 Ovod,AS-13 'Kingbolt',,
+X-59MK2,cruise missile,TV-guided,russia,Su-57,Kh-59MK2,AS-22,,
+Kalibr,cruise missile,,russia,"naval ships, submarines, containers, airplanes, TEL",Kalibr,SS-N-27 Sizzler,,
+X-101/X-555,cruise missile,air-launched,russia,"Tu-95MS, Tu-160, Su-34",Kh-101/Kh-555,Kent-C,,
+X-22,cruise missile,air-to-surface,russia,"Tu-22M, Тu-22К, Тu-95К22",Kh-22,AS-4 'Kitchen',,
+X-31P,cruise missile,air-to-surface,russia,"Su-27SM, Su-30MKI, Su-25, Su-34, Su-35, MiG-29M, HAL Tejas, MiG-29K, Su-24M, Su-33",Kh-31P,AS-17 'Krypton',,
+X-47 Kinzhal,cruise missile,air-launched ballistic,russia,"MiG-31BM/K, Tu-22M3M, Su‐57",Kh-47 Kinzhal,Killjoy,,
+P-800 Oniks,cruise missile,,russia,"coastal installations, naval ships, fixed-wing aircraft",P-800 Oniks,SS-N-26 'Strobile',,
+KAB,guided bomb,,russia,,KAB,,,
+C-300,surface-to-air missile,,russia,,S-300,SA-10 Grumble,,
+C-400,surface-to-air missile,,russia,,S-400 Triumf,SA-21 Growler,,
+Iskander-K,cruise missile,,russia,9K720 Iskander,Iskander-K,,"Inertial, optical DSMAC",
+Iskander-M,ballistic missile,TV-guided,russia,9K720 Iskander,Iskander-M,,TERCOM,
+Unknown UAV,UAV,,,,,,,
+Reconnaissance UAV,UAV,,,,,,,
+Shahed-136/131,UAV,loitering munition,iran,,,,,Shahed Aviation Industries
+Orlan-10,UAV,reconnaissance,russia,,,,,Special Technology Center
+Orlan-30,UAV,reconnaissance,russia,,,,,Special Technology Center
+Merlin-VR,UAV,reconnaissance,russia,,,,,
+Orion,UAV,reconnaissance and armed,russia,,,,,Kronstadt Group
+Lancet,UAV,loitering munition,russia,,,,,ZALA Aero Group
+Granat-4,UAV,reconnaissance,russia,,,,,Ижмаш – беспилотные системы
+Supercam,UAV,reconnaissance,russia,,,,,Unmanned Systems Group
+ZALA,UAV,,russia,,,,,ZALA Aero Group
